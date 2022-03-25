@@ -1,4 +1,5 @@
 <?php
+//usado para matrizes, arrays ou coleções (get)
  $meses = array(
  	 "Janeiro", "Fevereiro" , "Março",
  	 "Abril", "Maio" , "Junho",
